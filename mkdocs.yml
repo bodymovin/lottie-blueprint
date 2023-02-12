@@ -1,0 +1,27 @@
+site_name: Lottie Blueprint Docs
+nav:
+- Home: index.md
+markdown_extensions:
+  - pymdownx.keys
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - tables
+  - admonition
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - markdown_include.include:
+      base_path: docs
+plugins:
+  - tooltips
+extra_css:
+  - css/hint.min.css
+theme:
+  name: material
+  palette:
+    primary: '#00ff00'
+    accent: '#00ff00'
