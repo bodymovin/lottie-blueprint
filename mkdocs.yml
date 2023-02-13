@@ -1,6 +1,8 @@
 site_name: Lottie Blueprint Docs
 nav:
 - Home: index.md
+- Specs:
+  - specs/blueprint.md
 markdown_extensions:
   - pymdownx.keys
   - pymdownx.critic
