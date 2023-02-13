@@ -4,16 +4,16 @@
 
 Definition | Name | Type | Required
 -- | :--: | :--: | :--:
-[Type](#type) | type | [String](../properties/format-type) | ✅ 
-[Title](#title) | title | [String](../properties/prop-types/#string)
-[Parser](#parser) | parser | [Parser](./parser) | ✅ 
+[Type](#type) | type | [String](../../properties/format-type) | ✅ 
+[Title](#title) | title | [String](../../properties/prop-types/#string)
+[Parser](#parser) | parser | [Parser](../parser) | ✅ 
 
 ## Type
 
 ??? Details
     **Property name:** *type*
 
-    **Property type:** [Format type](../properties/format-type)
+    **Property type:** [Format type](../../properties/format-type)
 
     **Required**
 
@@ -24,7 +24,7 @@ A unique value to allow the parser validate if the provided json is indeed a blu
 ??? Details
     **Property name:** *title*
 
-    **Property type:** [String](../properties/prop-types/#string)
+    **Property type:** [String](../../properties/prop-types/#string)
 
 A name used to display on the templates list if used within a validation tool.
 
@@ -33,6 +33,6 @@ A name used to display on the templates list if used within a validation tool.
 ??? Details
     **Property name:** *parser*
 
-    **Property type:** [Parser](./parser)
+    **Property type:** [Parser](../parser)
 
 The parser used for the blueprint.

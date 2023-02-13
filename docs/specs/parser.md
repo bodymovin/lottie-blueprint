@@ -4,17 +4,16 @@
 
 Definition | Name | Type | Required
 -- | :--: | :--: | :--:
-[Slots](#slots) | slots | [Slots](../slots/slots/)
-[Slots](#slots) | slots | [Slots](/specs/slots/slots/)
-[Layers](#layers) | layers | [Layers](./layers/layers)
-[Assets](#assets) | assets | [Assets](./assets/assets)
+[Slots](#slots) | slots | [Slots](../slots/slots)
+[Layers](#layers) | layers | [Layers](../layers/layers)
+[Assets](#assets) | assets | [Assets](../assets/assets)
 
 ## Slots
 
 ??? Details
     **Property name:** *slots*
 
-    **Property type:** [Slots](./slots/slots)
+    **Property type:** [Slots](../slots/slots)
 
 The slots blueprint validator
 
@@ -23,7 +22,7 @@ The slots blueprint validator
 ??? Details
     **Property name:** *layers*
 
-    **Property type:** [Slots](./layers/layers)
+    **Property type:** [Slots](../layers/layers)
 
 The layers blueprint validator
 
@@ -32,6 +31,6 @@ The layers blueprint validator
 ??? Details
     **Property name:** *assets*
 
-    **Property type:** [Assets](./assets/assets)
+    **Property type:** [Assets](../assets/assets)
 
 The assets blueprint validator
