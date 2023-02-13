@@ -4,6 +4,13 @@ nav:
 - Specs:
   - specs/blueprint.md
   - specs/parser.md
+  - Slots:
+    - specs/slots/slots.md
+    - Slot Entry:
+      - specs/slots/slot-entry.md
+  - Properties:
+    - specs/properties/prop-types.md
+    - specs/properties/format-type.md
 markdown_extensions:
   - pymdownx.keys
   - pymdownx.critic
