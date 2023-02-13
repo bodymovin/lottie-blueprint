@@ -7,6 +7,7 @@ Definition | Name | Type | Required
 [Name](#name) | name | [String](../../../properties/format-type) | ✅ 
 [Type](#type) | type | [Validation type](../../../properties/validation-type) 
 [Count](#count) | count | [Count](../../../properties/count)
+[Property](#property) | property | [Animation property](../../../properties/animation-property)
 
 ## Name
 
@@ -34,3 +35,12 @@ The type of pattern matching that will be applied to the rule. It accepts either
     **Property type:** [Count](../../../properties/count
 
 The type of comparison that will be applied to validate whether the animation matches the number of occurrences. 
+
+## Property
+
+??? Details
+    **Property name:** *property*
+
+    **Property type:** [Animation Property](../../../properties/animation-property
+
+The type of property this slot should be applied to. If the property doesn't match, even if the slot exists, it will be added to the error list.

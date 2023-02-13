@@ -13,4 +13,4 @@ Definition | Name | Type | Required
 
     **Property type:** Array[[Slot Entry](../slot-entry)]
 
-The list of entry rules that slots have to comply with
+The list of entry rules that slots have to comply with.

@@ -8,9 +8,20 @@ nav:
     - specs/slots/slots.md
     - Slot Entry:
       - specs/slots/slot-entry.md
+  - Layers:
+    - specs/layers/layers.md
+    - Layer Entry:
+      - specs/layers/layer-entry.md
+  - Assets:
+    - specs/assets/assets.md
   - Properties:
-    - specs/properties/prop-types.md
+    - specs/properties/animation-property.md
+    - specs/properties/count.md
     - specs/properties/format-type.md
+    - specs/properties/layer-type.md
+    - specs/properties/operation-type.md
+    - specs/properties/prop-types.md
+    - specs/properties/validation-type.md
 markdown_extensions:
   - pymdownx.keys
   - pymdownx.critic
