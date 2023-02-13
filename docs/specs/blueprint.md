@@ -6,7 +6,7 @@ Definition | Name | Type | Required
 -- | :--: | :--: | :--:
 [Type](#type) | type | [String](../properties/format-type) | ✅ 
 [Title](#title) | title | [String](../properties/prop-types/#string)
-[Parser](#parser) | parser | [Parser](./parser/) | ✅ 
+[Parser](#parser) | parser | [Parser](./parser) | ✅ 
 
 ## Type
 

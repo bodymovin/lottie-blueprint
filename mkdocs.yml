@@ -3,6 +3,7 @@ nav:
 - Home: index.md
 - Specs:
   - specs/blueprint.md
+  - specs/parser.md
 markdown_extensions:
   - pymdownx.keys
   - pymdownx.critic
