@@ -4,8 +4,8 @@
 
 Definition | Name | Type | Required
 -- | :--: | :--: | :--:
-[Slots](#slots) | slots | [Slots](slots/slots/)
-[Slots](#slots) | slots | [Slots](specs/slots/slots/)
+[Slots](#slots) | slots | [Slots](../slots/slots/)
+[Slots](#slots) | slots | [Slots](/specs/slots/slots/)
 [Layers](#layers) | layers | [Layers](./layers/layers)
 [Assets](#assets) | assets | [Assets](./assets/assets)
 
