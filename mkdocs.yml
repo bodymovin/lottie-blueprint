@@ -15,13 +15,13 @@ nav:
   - Assets:
     - specs/assets/assets.md
   - Properties:
-    - specs/properties/animation-property.md
-    - specs/properties/count.md
-    - specs/properties/format-type.md
-    - specs/properties/layer-type.md
-    - specs/properties/operation-type.md
-    - specs/properties/prop-types.md
-    - specs/properties/validation-type.md
+    - properties/animation-property.md
+    - properties/count.md
+    - properties/format-type.md
+    - properties/layer-type.md
+    - properties/operation-type.md
+    - properties/prop-types.md
+    - properties/validation-type.md
 markdown_extensions:
   - pymdownx.keys
   - pymdownx.critic
